@@ -158,12 +158,12 @@
         "asfalistikosgoneasForceOnline": true,
         "cardlinkLoyaltyEnabled": true
     },
-    "ecrSettings": {
+    "Settings": {
         "ecrSystem": true,
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
         "ecrSystemProtocol": 0,
-        "ecrVendor": "AADE"
+        "ecrVendor": ""
     },
     "billPayment": {
         "useBillPayment": false,
