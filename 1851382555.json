@@ -158,7 +158,7 @@
         "asfalistikosgoneasForceOnline": true,
         "cardlinkLoyaltyEnabled": true
     },
-    "Settings": {
+    "ecrSettings": {
         "ecrSystem": true,
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
