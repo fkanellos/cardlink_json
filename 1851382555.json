@@ -81,7 +81,7 @@
         "useMastercardNewBrand": true,
         "supportKeyEntry": true,
         "supportInstallments": false,
-        "supportTIP": false,
+        "supportTIP": true,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
