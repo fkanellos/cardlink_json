@@ -19,7 +19,7 @@
         "acquirers": [
             {
                 "acqIndetifier": "014",
-                "acqName": "Alpha Bank",
+                "acqName": "Nexi",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
@@ -27,7 +27,7 @@
             },
             {
                 "acqIndetifier": "026",
-                "acqName": "Eurobank",
+                "acqName": "Worline",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
