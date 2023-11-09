@@ -91,11 +91,11 @@
         "useAutoCloseBatchTimer": "14:27",
         "useAutoParams": true,
         "useAutoParamsTimer": "12:26",
-        "alphaBankDCCSupport": true,
+        "alphaBankDCCSupport": false,
         "alphaBankDCCProfileId": "19010",
         "alphaBankDCCPartnerId": "9010",
         "alphaBankDCCMerchantNumber": "123419010",
-        "euroBankDCCSupport": true,
+        "euroBankDCCSupport": false,
         "nbgAppSelectionEnabled": true,
         "nbgAppSelectionAcquirerBankId": "011",
         "cardlinkOneConfiguration": {
