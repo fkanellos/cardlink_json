@@ -130,9 +130,9 @@
             "acquirerBankNameAsBIDSetting": false,
             "barcodeSetting": "01",
             "customLogo": "",
-            "dualLogoPrint": false,
-            "cardlinkLogoOnTop": false,
-            "merchantReceipt": false,
+            "dualLogoPrint": true,
+            "cardlinkLogoOnTop": true,
+            "merchantReceipt": true,
             "asfalistikosgoneasPromoMessage": "ΕΞΟΦΛΗΣΤΕ ΤΑ ΑΣΦΑΛΙΣΤΡΑ ΣΑΣ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΚΑΙ ΚΕΡΔΙΣΤΕ ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 10% ΕΝΗΜΕΡΩΘΕΙΤΕ ΣΤΟ 210 8119670"
         }
     },
