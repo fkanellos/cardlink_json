@@ -90,7 +90,7 @@
         "useAutoCloseBatch": true,
         "useAutoCloseBatchTimer": "13:25",
         "useAutoParams": true,
-        "useAutoParamsTimer": "14:20",
+        "useAutoParamsTimer": "14:31",
         "alphaBankDCCSupport": true,
         "alphaBankDCCProfileId": "19010",
         "alphaBankDCCPartnerId": "9010",
@@ -163,7 +163,7 @@
         "ecrSystemDefaultPort": 4000,
         "ecrSystemMode": 0,
         "ecrSystemProtocol": 2,
-        "ecrVendor": "1"
+        "ecrVendor": "2"
     },
     "billPayment": {
         "useBillPayment": false,
